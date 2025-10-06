@@ -1,0 +1,294 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "name": "Luna",
+      "animal": "dog",
+      "breed": "Havanese",
+      "city": "Seattle",
+      "state": "WA",
+      "available": true,
+      "description": "Luna is a friendly and energetic Havanese who loves to play fetch and cuddle. She's great with kids and other dogs. She's house-trained and knows basic commands.",
+      "images": [
+        "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=500",
+        "https://images.unsplash.com/photo-1568572933382-74d440642117?w=500",
+        "https://images.unsplash.com/photo-1561037404-61cd46aa615b?w=500"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Pepper",
+      "animal": "bird",
+      "breed": "Cockatiel",
+      "city": "Portland",
+      "state": "OR",
+      "available": true,
+      "description": "Pepper is a beautiful cockatiel who loves to whistle and sing. Very friendly and social, enjoys being around people. Comes with cage and toys.",
+      "images": [
+        "https://images.unsplash.com/photo-1552728089-57bdde30beb3?w=500",
+        "https://images.unsplash.com/photo-1444464666168-49d633b86797?w=500"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Doink",
+      "animal": "cat",
+      "breed": "Mixed",
+      "city": "San Francisco",
+      "state": "CA",
+      "available": false,
+      "description": "Doink is a sweet mixed breed cat with a playful personality. She loves to chase toys and nap in sunny spots. Perfect for apartment living.",
+      "images": [
+        "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=500",
+        "https://images.unsplash.com/photo-1573865526739-10c1dd7adae5?w=500",
+        "https://images.unsplash.com/photo-1533738363-b7f9aef128ce?w=500"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Buddy",
+      "animal": "dog",
+      "breed": "Labrador",
+      "city": "Austin",
+      "state": "TX",
+      "available": true,
+      "description": "Buddy is a loyal Labrador Retriever who loves swimming and outdoor adventures. He's well-trained and great with families.",
+      "images": [
+        "https://images.unsplash.com/photo-1600804340584-c7db2eacf0bf?w=500",
+        "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=500"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Max",
+      "animal": "dog",
+      "breed": "Golden Retriever",
+      "city": "Denver",
+      "state": "CO",
+      "available": false,
+      "description": "Max is a gentle giant who loves everyone he meets. Perfect family dog, great with children, and very obedient.",
+      "images": [
+        "https://images.unsplash.com/photo-1633722715463-d30f4f325e24?w=500",
+        "https://images.unsplash.com/photo-1554224311-beee415c201f?w=500"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Mittens",
+      "animal": "cat",
+      "breed": "Siamese",
+      "city": "Boston",
+      "state": "MA",
+      "available": true,
+      "description": "Mittens is a vocal Siamese who loves attention. She's very affectionate and will follow you around the house.",
+      "images": [
+        "https://images.unsplash.com/photo-1513360371669-4adf3dd7dff8?w=500",
+        "https://images.unsplash.com/photo-1506755855567-92ff770e8d00?w=500"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Charlie",
+      "animal": "dog",
+      "breed": "Poodle",
+      "city": "Miami",
+      "state": "FL",
+      "available": true,
+      "description": "Charlie is a smart and hypoallergenic Poodle. He's been professionally groomed and knows many tricks.",
+      "images": [
+        "https://images.unsplash.com/photo-1616536072857-a737dbb51f87?w=500",
+        "https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?w=500"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Shadow",
+      "animal": "cat",
+      "breed": "Persian",
+      "city": "Chicago",
+      "state": "IL",
+      "available": false,
+      "description": "Shadow is a calm Persian cat who enjoys quiet environments. Perfect for someone looking for a relaxed companion.",
+      "images": [
+        "https://images.unsplash.com/photo-1455526050980-d3e7b9b789a4?w=500",
+        "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?w=500"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Tweety",
+      "animal": "bird",
+      "breed": "Canary",
+      "city": "Phoenix",
+      "state": "AZ",
+      "description": "Tweety is a beautiful singing canary with a melodious voice. Loves to perform and brighten up your mornings.",
+      "images": [
+        "https://images.unsplash.com/photo-1551727992-e381058e7f6a?w=500"
+      ],
+      "available": true
+    },
+    {
+      "id": 10,
+      "name": "Rocky",
+      "animal": "dog",
+      "breed": "German Shepherd",
+      "city": "Seattle",
+      "state": "WA",
+      "description": "Rocky is a protective German Shepherd, great for families looking for security. Well-trained and loyal.",
+      "images": [
+        "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=500",
+        "https://images.unsplash.com/photo-1534628277456-44e47e08c4b5?w=500"
+      ],
+      "available": false
+    },
+    {
+      "id": 11,
+      "name": "Bella",
+      "animal": "cat",
+      "breed": "Maine Coon",
+      "city": "Portland",
+      "state": "OR",
+      "description": "Bella is a majestic Maine Coon with a friendly temperament. She's large, fluffy, and loves to play.",
+      "images": [
+        "https://images.unsplash.com/photo-1574158622682-e40e69881006?w=500",
+        "https://images.unsplash.com/photo-1591871937573-74dbba515c4c?w=500"
+      ],
+      "available": true
+    },
+    {
+      "id": 12,
+      "name": "Daisy",
+      "animal": "dog",
+      "breed": "Mixed",
+      "city": "San Francisco",
+      "state": "CA",
+      "description": "Daisy is a sweet mixed breed rescue. She's shy at first but warms up quickly. Looking for a patient, loving home.",
+      "images": [
+        "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=500",
+        "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?w=500"
+      ],
+      "available": false
+    },
+    {
+      "id": 13,
+      "name": "Bingo",
+      "animal": "bird",
+      "breed": "Macaw",
+      "city": "Austin",
+      "state": "TX",
+      "description": "Bingo is a vibrant Macaw with stunning colors. He's talkative and loves to entertain. Requires experienced bird owner.",
+      "images": [
+        "https://images.unsplash.com/photo-1552728089-57bdde30beb3?w=500"
+      ],
+      "available": true
+    },
+    {
+      "id": 14,
+      "name": "Whiskers",
+      "animal": "cat",
+      "breed": "British Shorthair",
+      "city": "Denver",
+      "state": "CO",
+      "description": "Whiskers is a calm British Shorthair with a plushy coat. He's independent but loves evening cuddles.",
+      "images": [
+        "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=500",
+        "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?w=500"
+      ],
+      "available": true
+    },
+    {
+      "id": 15,
+      "name": "Rusty",
+      "animal": "rabbit",
+      "breed": "Dutch",
+      "city": "Boston",
+      "state": "MA",
+      "description": "Rusty is an adorable Dutch rabbit who's litter-trained. He loves fresh vegetables and hopping around.",
+      "images": [
+        "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=500",
+        "https://images.unsplash.com/photo-1590591097428-f5c4c73af537?w=500"
+      ],
+      "available": false
+    },
+    {
+      "id": 16,
+      "name": "Coco",
+      "animal": "bird",
+      "breed": "Budgie",
+      "city": "Miami",
+      "state": "FL",
+      "description": "Coco is a playful budgie who loves to chirp and play with toys. Great starter bird for families.",
+      "images": [
+        "https://images.unsplash.com/photo-1552728089-57bdde30beb3?w=500"
+      ],
+      "available": true
+    },
+    {
+      "id": 17,
+      "name": "Spike",
+      "animal": "reptile",
+      "breed": "Bearded Dragon",
+      "city": "Chicago",
+      "state": "IL",
+      "description": "Spike is a friendly bearded dragon who enjoys being handled. Easy to care for and has a great personality.",
+      "images": [
+        "https://images.unsplash.com/photo-1583225952961-5bee8e0c5a3d?w=500"
+      ],
+      "available": false
+    },
+    {
+      "id": 18,
+      "name": "Ginger",
+      "animal": "cat",
+      "breed": "Mixed",
+      "city": "Phoenix",
+      "state": "AZ",
+      "description": "Ginger is a beautiful orange tabby with a sweet disposition. She's perfect for someone looking for a lap cat.",
+      "images": [
+        "https://images.unsplash.com/photo-1574158622682-e40e69881006?w=500"
+      ],
+      "available": true
+    },
+    {
+      "id": 19,
+      "name": "Cooper",
+      "animal": "dog",
+      "breed": "Mixed",
+      "city": "Seattle",
+      "state": "WA",
+      "description": "Cooper is an energetic mixed breed who loves hiking and adventures. Perfect for an active lifestyle.",
+      "images": [
+        "https://images.unsplash.com/photo-1552053831-71594a27632d?w=500"
+      ],
+      "available": true
+    },
+    {
+      "id": 20,
+      "name": "Thumper",
+      "animal": "rabbit",
+      "breed": "Lionhead",
+      "city": "Portland",
+      "state": "OR",
+      "description": "Thumper is a fluffy lionhead rabbit with an adorable mane. Very social and loves attention.",
+      "images": [
+        "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=500"
+      ],
+      "available": false
+    }
+  ],
+  "breeds": {
+    "dog": [
+      "Mixed",
+      "Labrador",
+      "Poodle",
+      "German Shepherd",
+      "Golden Retriever",
+      "Havanese"
+    ],
+    "cat": ["Mixed", "Persian", "Siamese", "Maine Coon", "British Shorthair"],
+    "bird": ["Cockatiel", "Macaw", "Budgie", "Canary"],
+    "rabbit": ["Dutch", "Lionhead", "Mini Lop", "Rex"],
+    "reptile": ["Bearded Dragon", "Gecko", "Python", "Turtle"]
+  }
+}
+ 
